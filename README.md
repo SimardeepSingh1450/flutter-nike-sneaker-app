@@ -1,9 +1,10 @@
 # Sneaker Flutter App 
 ## Home Screen
-<img src="https://github.com/SimardeepSingh1450/flutter-nike-sneaker-app/assets/92221517/1fd115c9-ee64-42ae-81c3-8e367506d4ea" height="600">
+![6b2feeaa-f771-4352-abf4-d70616083c38](https://github.com/SimardeepSingh1450/flutter-nike-sneaker-app/assets/92221517/4f14d0de-0e0a-47f8-8fda-0eae785ea3e7)
 
 ## Shop Screen
-<img src="https://github.com/SimardeepSingh1450/flutter-nike-sneaker-app/assets/92221517/381088f7-69ba-4b30-a585-2d1ad25a3965" height="600">
+![0707d12a-2cc7-47ae-9b0d-3ef4629da27e](https://github.com/SimardeepSingh1450/flutter-nike-sneaker-app/assets/92221517/1574ca7a-b203-4768-a900-2d3a5a14b610)
 
 ## Cart Screen
-<img src="https://github.com/SimardeepSingh1450/flutter-nike-sneaker-app/assets/92221517/b508cdc7-0a29-45d9-8599-041c9111c4d9" height="600">
+![Uploading 25acdbd3-1daf-42eb-831d-4640a92de45f.jpg…]()
+
